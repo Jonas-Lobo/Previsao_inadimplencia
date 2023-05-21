@@ -12,7 +12,7 @@ quem ficará inadimplente caso haja liberação de financiamento.
 
 # *Dados*
 
-Dados coletados do Banco no SQL Server
+Dados coletados do BD no SQL Server.
 Foi feito uma conexão do Banco de dados com o Jupyter notebook
 para analise em Pyhton.
 
